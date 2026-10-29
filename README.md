@@ -2,7 +2,6 @@
 
 A wallpaper pack that unites the Ubuntu Yaru colors with Windows Aero theming. Glassy, natural flowing waves in six color variants. Frutiger aero with modern look and Yaru colors
 
-> **Note:** The images in this pack are AI-generated with Google Gemini.
 
 ![Yaru Aero default](with-logo/yaru-aero-default.jpeg)
 
@@ -37,5 +36,6 @@ All images are 2752×1536 JPEG.
 This pack is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share and remix it, including commercially, as long as you give credit and release your changes under the same license. See [LICENSE](LICENSE).
 
 ## Disclaimer
+>  The images in this pack are AI-generated with Google Gemini.
 
-The Ubuntu logo is a trademark of Canonical Ltd. and is not covered by this license. Canonical is not affiliated with, endorsed by, or in any way connected to this wallpaper pack. This is an unofficial fan project.
+> The Ubuntu logo is a trademark of Canonical Ltd. and is not covered by this license. Canonical is not affiliated with, endorsed by, or in any way connected to this wallpaper pack. This is an unofficial fan project.
